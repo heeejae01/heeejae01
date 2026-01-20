@@ -1,9 +1,19 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Huijae's%20Github&animation=&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Huijae's%20Github&animation=&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello, I'm Huijae Bae, an AI engineer.  </li></li></li>🔍 Areas of Interest  </li><li> Deep Learning  </li><li> Computer Vision  </li><li> Biomedical AI  </li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+      Hello, I'm Huijae Bae, an AI engineer.
+      <br><br>
+    
+      🔍 Areas of Interest  
+      <ul>
+        <li>Deep Learning</li>
+        <li>Computer Vision</li>
+        <li>Biomedical AI</li>
+      </ul>
+    </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
