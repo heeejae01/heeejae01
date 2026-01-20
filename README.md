@@ -3,17 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-      Hello, I'm Huijae Bae, an AI engineer.
-      <br><br>
-    
-      🔍 Areas of Interest  
-      <ul>
-        <li>Deep Learning</li>
-        <li>Computer Vision</li>
-        <li>Biomedical AI</li>
-      </ul>
-    </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello, I'm Huijae Bae, an AI engineer.  <br><br> </li></li></li>🔍 Areas of Interest  </li><li> Deep Learning  </li><li> Computer Vision  </li><li> Biomedical AI  </li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
