@@ -18,22 +18,23 @@ Hello, I'm Huijae Bae, an AI engineer.
 </ul>
 
 
-<h3>🎓 Education</h3>
+<b>🎓 Education</b>
 
 <p>
 <b>M.S. in Computer Science</b><br>
 Sangmyung University <i>(Mar 2024 – Feb 2026)</i><br>
-Creative Contents Laboratory
+<ul><li>Creative Contents Laboratory</li></ul>
 </p>
 
 <p>
 <b>B.S. in Electronic Engineering</b><br>
 Sangmyung University <i>(Mar 2020 – Feb 2024)</i><br>
 
-
-Major: Electronic Engineering<br>
-Double Major: Human Intelligence & Information Engineering<br>
-Undergraduate Researcher, Creative Contents Laboratory
+<ul>
+<li>Major: Electronic Engineering</li>
+<li>Double Major: Human Intelligence & Information Engineering</li>
+<li>Undergraduate Researcher, Creative Contents Laboratory</li>
+</ul>
 </p>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
