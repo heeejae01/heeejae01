@@ -36,7 +36,7 @@ Sangmyung University <i>(Mar 2020 – Feb 2024)</i><br>
 <ul>
 <li>Major : Electronic Engineering</li>
 <li>Double Major : Human Intelligence & Information Engineering</li>
-<li>LAB : Creative Contents Labs (CCLABS)</li>
+<li>LAB : Creative Content Labs (CCLABS)</li>
 </ul>
 </p>
 
