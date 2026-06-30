@@ -30,8 +30,8 @@ Sangmyung University <i>(Mar 2024 – Feb 2026)</i><br>
 Sangmyung University <i>(Mar 2020 – Feb 2024)</i><br>
 
 <ul>
-<li>Major: Electronic Engineering</li>
-<li>Double Major: Human Intelligence & Information Engineering</li>
+<li>Major : Electronic Engineering</li>
+<li>Double Major : Human Intelligence & Information Engineering</li>
 <li>LAB : Cognitive Content Labs (CCLABS)</li>
 </ul>
 </p>
