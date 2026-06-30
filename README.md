@@ -10,7 +10,7 @@
 Hello, I'm Huijae Bae, an AI engineer.
 </p>
 
-<b>🔍 Areas of Interest</b>
+<h3>🔍 Areas of Interest</h3>
 <ul>
   <li>Deep Learning</li>
   <li>Computer Vision</li>
@@ -18,12 +18,11 @@ Hello, I'm Huijae Bae, an AI engineer.
 </ul>
 
 
-<b>🎓 Education</b>
+<h3>🎓 Education</h3>
 
 <p>
 <b>M.S. in Computer Science</b><br>
 Sangmyung University <i>(Mar 2024 – Feb 2026)</i><br>
-<ul><li>Creative Contents Laboratory</li></ul>
 </p>
 
 <p>
