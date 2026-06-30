@@ -22,8 +22,8 @@ Hello, I'm Huijae Bae, an AI engineer.
 
 <p>
 <b>M.S. in Computer Science</b><br>
-Sangmyung University <i>(Mar 2024 – Feb 2026)</i><br>
-<li>LAB: Cognitive Computing Labs (CCLABS)</li>
+Sangmyung University <i>(Mar 2024 – Feb 2026)</i>
+<li>LAB: Cognitive Computing Labs (CCLABS)</li><br>
 </p>
 
 <p>
