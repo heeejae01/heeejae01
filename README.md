@@ -17,7 +17,6 @@ Hello, I'm Huijae Bae, an AI engineer.
   <li>Biomedical AI</li>
 </ul>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎓 Education & Experience</h2>
 
 <h3>🎓 Education</h3>
 
@@ -30,6 +29,7 @@ Creative Contents Laboratory
 <p>
 <b>B.S. in Electronic Engineering</b><br>
 Sangmyung University <i>(Mar 2020 – Feb 2024)</i><br>
+
 
 Major: Electronic Engineering<br>
 Double Major: Human Intelligence & Information Engineering<br>
